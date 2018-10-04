@@ -7,3 +7,5 @@ Features
 * Online Search functionality that allows users to find photos of a specific type or category 
 
 * Location based navigation to search and find photos based on the location they were taken
+
+* Infinite Scroll 
